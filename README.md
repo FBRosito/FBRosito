@@ -2,10 +2,12 @@
 
 # ❤ Seja bem-vindo ao meu perfil GitHub!
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/fernando-barcelos-rosito/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
+    <a href = "https://www.linkedin.com/in/fernando-barcelos-rosito/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+-----------------------------------------------------------------------------------------------------------------------------
+<div>
 Sou desenvolvedor Full Stack, amo programar em JavaScript e Python.
 
 - 🧪 Estudante de Informática Biomédica
@@ -13,7 +15,7 @@ Sou desenvolvedor Full Stack, amo programar em JavaScript e Python.
 - 👩‍💻 Evoluindo tanto em Back-end quanto em Front-End
 
 ## 💻 Possuo experiência com:
-
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
